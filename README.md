@@ -12,7 +12,7 @@ I love transforming ideas into real-world products that help people and make an 
 
 - ⚡ Learning *backend* to built more complete and scalable applications
 - 🔧 Exploring *react.js* to built dynamic component-based user interfaces
-- 🧠 Deep diving into *Node.js *  
+- 🧠 Deep diving into *Node.js*  
 - 🎨 Practicing responsive UI/UX with *Figma + Tailwind CSS*  
 
 ---
@@ -36,7 +36,7 @@ I love transforming ideas into real-world products that help people and make an 
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupamaja/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/.anu.pamaa.)[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@anupamaja) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Anupama_JA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anupamampt@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupamaja/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_.anu.pamaa._/)[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@anupamaja) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Anupama_JA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anupamampt@gmail.com) 
 
 
 
